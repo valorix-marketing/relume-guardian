@@ -74,10 +74,6 @@ const About = () => {
                 alt="Joker Gym Interior"
                 className="rounded-2xl shadow-2xl w-full object-cover aspect-[4/3]"
               />
-              <div className="absolute -bottom-6 -left-6 gradient-primary p-6 rounded-xl font-heading text-primary-foreground hidden md:block">
-                <div className="text-sm font-normal">Depuis</div>
-                <div className="text-3xl font-bold">2020</div>
-              </div>
             </div>
           </div>
         </div>
